@@ -1,0 +1,24 @@
+﻿Windows.Theme
+
+
+library
+C#
+.cs
+<<<<<<< HEAD
+C:\XUS\200-CODE\Dassault_Systemes\CATIA_TJAD\Windows.Theme\obj\Debug\
+=======
+F:\Code_Repository\tjad\Windows.Theme\obj\Debug\
+>>>>>>> 1c2a319 (布板界面优化)
+Windows.Theme
+none
+false
+DEBUG;TRACE
+
+8-1743694410
+
+5-1778221795
+18-1551559374
+AppButtonStyle.xaml;AppMenuStyle.xaml;ButtonStyle.xaml;Colors.xaml;DialogStyle.xaml;FontStyle.xaml;MainWindows.xaml;Theme.xaml;
+
+True
+

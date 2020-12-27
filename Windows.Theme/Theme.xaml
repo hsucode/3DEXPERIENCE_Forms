@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Windows.Theme">
+
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="ButtonStyle.xaml" />
+        <ResourceDictionary Source="Colors.xaml" />
+        <ResourceDictionary Source="DialogStyle.xaml" />
+        <!--<ResourceDictionary Source="pack://application:,,,/BootstrapWpfStyle;component/Styles/Colors.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="pack://application:,,,/BootstrapWpfStyle;component/Styles/Fonts.xaml"></ResourceDictionary>
+        <ResourceDictionary Source="pack://application:,,,/BootstrapWpfStyle;component/Styles/Sizes.xaml"></ResourceDictionary>-->
+    </ResourceDictionary.MergedDictionaries>
+
+</ResourceDictionary>

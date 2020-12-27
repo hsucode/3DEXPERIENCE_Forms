@@ -1,0 +1,29 @@
+﻿Windows.InformationBox
+
+
+library
+C#
+.cs
+<<<<<<< HEAD
+C:\XUS\200-CODE\Dassault_Systemes\CATIA_TJAD\Windows.InformationBox\obj\Debug\
+=======
+F:\Code_Repository\tjad\Windows.InformationBox\obj\Debug\
+>>>>>>> 1c2a319 (布板界面优化)
+Windows.InformationBox
+none
+false
+DEBUG;TRACE
+
+1-1964816338
+
+<<<<<<< HEAD
+6-753243753
+13-1505183044
+=======
+6-1431723801
+141114927693
+>>>>>>> 1c2a319 (布板界面优化)
+DSMessageBoxWindow.xaml;
+
+False
+
