@@ -8,5 +8,5 @@ git add --all
 @echo Type your log,then ENTER: 
 set /p GetYourLog=
 git commit -m "%GetYourLog%"
-git push -u origin master
+git push
 pause
