@@ -1,6 +1,7 @@
 @echo off
 
 cd %~dp0
+git remote add origin git@github.com:hsucode/3DEXPERIENCE_Forms.git
 git pull
 git status
 git add --all
