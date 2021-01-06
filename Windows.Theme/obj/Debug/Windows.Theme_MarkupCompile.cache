@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\CangKu\tjad\Windows.Theme\obj\Debug\
+C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\
 Windows.Theme
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 8-1743694410
 
-8-1910474382
+4-257382380
 18-1551559374
 AppButtonStyle.xaml;AppMenuStyle.xaml;ButtonStyle.xaml;Colors.xaml;DialogStyle.xaml;FontStyle.xaml;MainWindows.xaml;Theme.xaml;
 
-True
+False
 
