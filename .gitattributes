@@ -1,0 +1,6 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.Part filter=lfs diff=lfs merge=lfs -text
+*.Product filter=lfs diff=lfs merge=lfs -text
+*.3dxml filter=lfs diff=lfs merge=lfs -text
+*.3dm filter=lfs diff=lfs merge=lfs -text
+*.skp filter=lfs diff=lfs merge=lfs -text

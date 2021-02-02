@@ -329,7 +329,6 @@ D:\CangKu\tjad\Windows.Theme\obj\Debug\Windows.Theme.dll
 D:\CangKu\tjad\Windows.Theme\obj\Debug\Windows.Theme.pdb
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\B422\win_b64\bin\Windows.Theme.dll
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\B422\win_b64\bin\Windows.Theme.pdb
-C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.csprojAssemblyReference.cache
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\MainWindows.g.cs
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme_MarkupCompile.cache
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme_MarkupCompile.lref
@@ -344,6 +343,6 @@ C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.g.resources
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.Properties.Resources.resources
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.csproj.GenerateResource.cache
-C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.csproj.CoreCompileInputs.cache
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.dll
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.pdb
+C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_Github\3DEXPERIENCE_Forms\Windows.Theme\obj\Debug\Windows.Theme.csprojResolveAssemblyReference.cache
